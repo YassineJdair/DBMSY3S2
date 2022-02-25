@@ -1,0 +1,1 @@
+The purpose of this project was to design and construct a dental practice database that can be deployed on the Google Cloud using WAMP and mySQL . It involved the design of a relational database for a fictitious dental company.
